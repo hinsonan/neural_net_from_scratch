@@ -3,6 +3,7 @@ This project uses only python3 and numpy to build a simple neural network. This 
 The problem that we are trying to learn to solve is a simple binary pattern result. We have sequences of three items in an array. Each item is either red or blue. The answer is whatever color shows up more in the array thats the correct color.
 
 Examples:
+
 | Inputs                | Answers        
 | --------------------- |:---------:|
 | red blue red          | red       |
